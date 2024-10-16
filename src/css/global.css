@@ -1,0 +1,21 @@
+body {
+    font-family: "Poppins", sans-serif;
+
+}
+
+main {
+    min-height: 100vh;
+    background-image: url(https://i.pinimg.com/736x/81/3f/69/813f691337e47b75429e49cddf5916cd.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pokedex{
+    display: flex;
+    gap: 30px;
+    padding: 50px 0;
+}
